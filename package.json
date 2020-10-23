@@ -1,5 +1,5 @@
 {
-	"name": "helmet",
+	"name": "freecodecampchallenges",
 	"version": "3.21.3",
 	"description": "fcc backend boilerplate",
 	"main": "server.js",

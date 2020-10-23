@@ -1,6 +1,6 @@
 {
-	"name": "freecodecampchallenges",
-	"version": "3.21.3",
+	"name": "fcc-infosec-challenges",
+	"version": "0.0.1",
 	"description": "fcc backend boilerplate",
 	"main": "server.js",
 	"scripts": {
